@@ -1,0 +1,4 @@
+E:\MyWPF\MyWPF.MVVMBase\bin\Debug\MyWPF.MVVMBase.dll
+E:\MyWPF\MyWPF.MVVMBase\bin\Debug\MyWPF.MVVMBase.pdb
+E:\MyWPF\MyWPF.MVVMBase\obj\Debug\MyWPF.MVVMBase.dll
+E:\MyWPF\MyWPF.MVVMBase\obj\Debug\MyWPF.MVVMBase.pdb

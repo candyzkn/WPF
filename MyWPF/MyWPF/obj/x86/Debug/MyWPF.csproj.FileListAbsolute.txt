@@ -1,0 +1,15 @@
+E:\MyWPF\MyWPF\bin\Debug\MyWPF.exe
+E:\MyWPF\MyWPF\bin\Debug\MyWPF.pdb
+E:\MyWPF\MyWPF\obj\x86\Debug\MainWindow.baml
+E:\MyWPF\MyWPF\obj\x86\Debug\MainWindow.g.cs
+E:\MyWPF\MyWPF\obj\x86\Debug\App.g.cs
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF_MarkupCompile.cache
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF.g.resources
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF.Properties.Resources.resources
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF.csproj.GenerateResource.Cache
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF.exe
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF.pdb
+E:\MyWPF\MyWPF\bin\Debug\MyWPF.CustomControlLibrary.dll
+E:\MyWPF\MyWPF\bin\Debug\MyWPF.CustomControlLibrary.pdb
+E:\MyWPF\MyWPF\obj\x86\Debug\MyWPF.csprojResolveAssemblyReference.cache
+E:\MyWPF\MyWPF\obj\x86\Debug\App.baml

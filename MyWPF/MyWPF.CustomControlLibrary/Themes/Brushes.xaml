@@ -1,0 +1,150 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:System="clr-namespace:System;assembly=mscorlib">
+
+    <!--=========================顶部栏、底部栏背景色===================================-->
+    <!--标题栏背景画刷-->
+    <ImageBrush x:Key="TitleBackgroundBrush" ImageSource="Bg.png" Stretch="Uniform"  TileMode="Tile"
+                AlignmentX="Left" AlignmentY="Top"
+                Viewport="0 0 58 81" ViewportUnits="Absolute"/>
+    <!--底部栏背景画刷-->
+    <ImageBrush x:Key="BottomBackgroundBrush" ImageSource="BottomBg.png" Stretch="Uniform"  TileMode="Tile" 
+                AlignmentX="Left" AlignmentY="Top"
+                  Viewport="0 0 5 35" ViewportUnits="Absolute"/>
+
+    <!--=========================数据目录背景色========================================-->
+    <!--数据目录标题背景色-->
+    <LinearGradientBrush x:Key="TitleBarBrush" StartPoint="0,0" EndPoint="0,1">
+
+        <LinearGradientBrush.GradientStops>
+
+            <GradientStopCollection>
+
+                <GradientStop  Color="#cc021425" Offset="0" />
+
+                <GradientStop  Color="#cc052d58"
+                               Offset="0.9722222089767456"/>
+
+            </GradientStopCollection>
+
+        </LinearGradientBrush.GradientStops>
+
+    </LinearGradientBrush>
+    <!--数据目录内容背景色-->
+    <SolidColorBrush x:Key="brushThemeBg" Color="#B2000000"/>
+
+    <!--=========================边框画刷==============================================-->
+    <!--一般边框色-->
+    <SolidColorBrush x:Key="borderBrush" Color="#6641b2ed"/>
+    <!--内边框色-->
+    <SolidColorBrush x:Key="BtninnerLIne" Color="#B2000000"/>
+
+    <!--=========================文本颜色==============================================-->
+    <!--系统标题颜色-->
+    <SolidColorBrush x:Key="MaintitleTextBrush" Color="#FFFFFFFF"/>
+    <!--二级标题文本颜色（如window.header，数据目录标题）-->
+    <SolidColorBrush x:Key="SubtitleTextBrush" Color="#FFFFFFFF"/>
+
+    <!--正常状态文字颜色-->
+    <SolidColorBrush x:Key="NormalTextBrush" Color="#FF6DDDFD"/>
+    <!--鼠标悬停状态文字颜色-->
+    <SolidColorBrush x:Key="MouseOverTextBrush" Color="#FF6DDDFD"/>
+    <!--选中或按下状态文字颜色-->
+    <SolidColorBrush x:Key="PressOrCheckTextBrush" Color="#FFFFFFFF"/>
+
+    <!--树选中状态文字颜色-->
+    <SolidColorBrush x:Key="RadTreeSelectedBrush" Color="#FF333333"/>
+
+    <!--==========================控件颜色=============================================-->
+    <!--常态控件背景颜色-->
+    <SolidColorBrush x:Key="NormalCtrlBgBrush" Color="#B2000000"/>
+    <!--鼠标悬停控件背景颜色-->
+    <SolidColorBrush x:Key="MouseOverCtrlBgBrush" Color="#B2000000"/>
+    <!--按下获选中控件背景颜色-->
+    <SolidColorBrush x:Key="PressOrCheckCtrlBgBrush" Color="#FF41b2ed"/>
+    <!--数据目录按钮选中控件背景颜色-->
+    <SolidColorBrush x:Key="DataCatlogRadioButtonCheckedBrush" Color="#FF08233e"/>
+
+
+    <!--========================ListBoxItem画刷-========================================-->
+    <SolidColorBrush x:Key="ListBoxItemBackgroundHighlighted" Color="#54545C"/>
+    <SolidColorBrush x:Key="ListBoxItemBorderBrushHighlighted" Color="#6A6A75"/>
+    <SolidColorBrush x:Key="ListBoxItemBackgroundSelected" Color="#CC007ACC"/>
+    <SolidColorBrush x:Key="ListBoxItemBorderBrushSelected" Color="#1C97EA"/>
+    <SolidColorBrush x:Key="ListBoxItemBackgroundNormal" Color="#3F3F46"/>
+    <SolidColorBrush x:Key="ListBoxItemBackgroundMouseOver" Color="#99007ACC"/>
+    <SolidColorBrush x:Key="ListBoxBackgroundNormal" Color="#CC03192F"/>
+
+    <!--========================MetroTextBox画刷-========================================-->
+    <!--背景颜色-->
+    <SolidColorBrush x:Key="BackgroundBrush" Color="#70021425"/>
+
+    <SolidColorBrush x:Key="HighlightBrush" Color="#FF086F9E"/>
+    <!--获取焦点边框颜色-->
+    <SolidColorBrush x:Key="TextBoxFocusBorderBrush" Color="#9941b2ed" />
+    <!--鼠标悬浮边框颜色-->
+    <SolidColorBrush x:Key="TextBoxMouseOverBorderBrush" Color="#9941b2ed"/>
+    <!--小按钮正常状态下背景色，几乎透明-->
+    <SolidColorBrush x:Key="TransparentWhiteBrush" Color="#01FFFFFF"/>
+    <!--搜索小按钮按下时的背景色-->
+    <SolidColorBrush x:Key="SearchBtnPressedBgBrush" Color="#FF000000"/>
+    <!--搜索小按钮按下时的前景色-->
+    <SolidColorBrush x:Key="SearchBtnPressedFgBrush" Color="#FFFFFFFF"/>
+    <!--搜索小按钮鼠标悬浮时的前景色-->
+    <SolidColorBrush x:Key="SearchBtnMouseOverFgBrush" Color="#CC119EDA"/>
+    <!--搜索小按钮鼠标悬浮时的背景色-->
+    <SolidColorBrush x:Key="SearchBtnMouseOverBgBrush" Color="#B2000000"/>
+    <!--文字字体-->
+    <System:Double x:Key="ContentFontSize">12</System:Double>
+    <!--呼吸灯边框颜色-->
+    <Color x:Key="BlackColor">#F00FFFFF</Color>
+    <!--不可编辑时颜色-->
+    <SolidColorBrush x:Key="ControlsDisabledBrush" Color="#A5FFFFFF" />
+    <!--========================MetroTextBox画刷-========================================-->
+
+    <!--========================MetroToggleSwitch画刷-========================================-->
+    <SolidColorBrush x:Key="SwitchOnForeground" Color="#00529C"/>
+    <SolidColorBrush x:Key="SwitchOffForeground" Color="LightGray"/>
+    <SolidColorBrush x:Key="ThumbColor" Color="Gray" />
+
+    <!--========================CheckBox画刷-========================================-->
+    <!--背景色，白色-->
+    <SolidColorBrush x:Key="WhiteBrush" Color="#FFFFFFFF"/>
+    <SolidColorBrush x:Key="CheckBoxMouseOverBrush" Color="#FF333333" />
+    <SolidColorBrush x:Key="GrayBrush3" Color="#FF9D9D9D"/>
+    <SolidColorBrush x:Key="SemiTransparentWhiteBrush" Color="#55FFFFFF"/>
+
+    <!--========================ListView画刷-========================================-->
+    <!--前景色，黑色-->
+    <SolidColorBrush x:Key="BlackBrush" Color="#FF000000" />
+
+    <SolidColorBrush x:Key="AccentColorBrush" Color="#CC119EDA"/>
+    <SolidColorBrush x:Key="AccentColorBrush2" Color="#99119EDA"/>
+    <SolidColorBrush x:Key="AccentColorBrush3" Color="#66119EDA"/>
+
+    <!--鼠标按下列头 列头边框颜色-->
+    <SolidColorBrush x:Key="ListViewHeaderBorderPressed" Color="#B2000000"/>
+    <SolidColorBrush x:Key="ListViewHeaderBackground" Color="#BB000000"/>
+
+    <!--========================ColorPicker画刷-========================================-->
+    <DrawingBrush  x:Key="CheckerBrush" Viewport="0,0,10,10" ViewportUnits="Absolute" TileMode="Tile">
+        <DrawingBrush.Drawing>
+            <DrawingGroup>
+                <GeometryDrawing Brush="{DynamicResource boderBrush}">
+                    <GeometryDrawing.Geometry>
+                        <RectangleGeometry Rect="0,0 100,100" />
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+                <GeometryDrawing Brush="{DynamicResource boderBrush}">
+                    <GeometryDrawing.Geometry>
+                        <GeometryGroup>
+                            <RectangleGeometry Rect="0,0 50,50" />
+                            <RectangleGeometry Rect="50,50 50,50" />
+                        </GeometryGroup>
+                    </GeometryDrawing.Geometry>
+                </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingBrush.Drawing>
+    </DrawingBrush>
+
+</ResourceDictionary>

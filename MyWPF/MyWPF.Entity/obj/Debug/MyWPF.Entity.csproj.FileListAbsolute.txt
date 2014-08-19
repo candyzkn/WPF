@@ -1,0 +1,7 @@
+E:\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.Entity.dll
+E:\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.Entity.pdb
+E:\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.dll
+E:\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.pdb
+E:\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.MVVMBase.dll
+E:\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.MVVMBase.pdb
+E:\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.csprojResolveAssemblyReference.cache
