@@ -11,6 +11,10 @@
                               Width="75"/>-->
             <controls:DateTimePicker Height="30" Width="200" Margin="10,0,0,0" />
             <DatePicker Height="30" Width="200"/>
+            <Button Content="处理数据"
+                    Width="100"
+                    Height="30"
+                    Click="Button_Click"/>
         </StackPanel>
     </Grid>
 </Window>

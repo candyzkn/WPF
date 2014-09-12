@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\MyWPF\MyWPF.CustomControlLibrary\obj\Debug\
+E:\GitHub\WPF\MyWPF\MyWPF.CustomControlLibrary\obj\Debug\
 MyWPF.CustomControlLibrary
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 8-2137417368
 
-37-872516227
-13-1012886045
+41-583723174
+14-629149121
 Themes\Brushes.xaml;Themes\Button.xaml;Themes\ColorPicker.xaml;Themes\DateTimePicker.xaml;Themes\DateTimeUpDown.xaml;Themes\Generic.xaml;Themes\TextBox.xaml;Themes\TimePicker.xaml;
 
-True
+False
 

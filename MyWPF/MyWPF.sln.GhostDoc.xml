@@ -10,7 +10,6 @@
 <HelpConfigurations selected="HelpFile">
   <HelpConfiguration name="HelpFile">
     <OutputPath>.\Help</OutputPath>
-    <HelpFileName>MyWPF</HelpFileName>
     <ImageFolderPath />
     <HtmlFormats>
       <HtmlHelp>true</HtmlHelp>

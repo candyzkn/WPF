@@ -5,3 +5,10 @@ E:\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.pdb
 E:\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.MVVMBase.dll
 E:\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.MVVMBase.pdb
 E:\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.csprojResolveAssemblyReference.cache
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.Entity.dll
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.Entity.pdb
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.MVVMBase.dll
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\bin\Debug\MyWPF.MVVMBase.pdb
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.csprojResolveAssemblyReference.cache
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.dll
+E:\GitHub\WPF\MyWPF\MyWPF.Entity\obj\Debug\MyWPF.Entity.pdb
