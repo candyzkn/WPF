@@ -1,0 +1,4 @@
+E:\GitHub\WPF\MyWPF\MyWPF.Utils\bin\Debug\MyWPF.Utils.dll
+E:\GitHub\WPF\MyWPF\MyWPF.Utils\bin\Debug\MyWPF.Utils.pdb
+E:\GitHub\WPF\MyWPF\MyWPF.Utils\obj\Debug\MyWPF.Utils.dll
+E:\GitHub\WPF\MyWPF\MyWPF.Utils\obj\Debug\MyWPF.Utils.pdb

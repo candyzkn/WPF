@@ -28,3 +28,5 @@ E:\GitHub\WPF\MyWPF\MyWPF\obj\x86\Debug\MyWPF_MarkupCompile.cache
 E:\GitHub\WPF\MyWPF\MyWPF\obj\x86\Debug\MyWPF.g.resources
 E:\GitHub\WPF\MyWPF\MyWPF\obj\x86\Debug\MyWPF.Properties.Resources.resources
 E:\GitHub\WPF\MyWPF\MyWPF\obj\x86\Debug\MyWPF.csproj.GenerateResource.Cache
+E:\GitHub\WPF\MyWPF\MyWPF\bin\Debug\MyWPF.Utils.dll
+E:\GitHub\WPF\MyWPF\MyWPF\bin\Debug\MyWPF.Utils.pdb

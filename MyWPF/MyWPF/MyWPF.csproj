@@ -97,6 +97,10 @@
       <Project>{796D883E-B48C-4F6C-9A1C-4CC6EB0DFB66}</Project>
       <Name>MyWPF.CustomControlLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MyWPF.Utils\MyWPF.Utils.csproj">
+      <Project>{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}</Project>
+      <Name>MyWPF.Utils</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWPF.MVVMBase", "MyWPF.MVV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWPF.CustomControlLibrary", "MyWPF.CustomControlLibrary\MyWPF.CustomControlLibrary.csproj", "{796D883E-B48C-4F6C-9A1C-4CC6EB0DFB66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWPF.Utils", "MyWPF.Utils\MyWPF.Utils.csproj", "{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,16 @@ Global
 		{796D883E-B48C-4F6C-9A1C-4CC6EB0DFB66}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{796D883E-B48C-4F6C-9A1C-4CC6EB0DFB66}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{796D883E-B48C-4F6C-9A1C-4CC6EB0DFB66}.Release|x86.ActiveCfg = Release|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F375598D-002A-4FB0-9D2F-11AC6A2F4B11}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

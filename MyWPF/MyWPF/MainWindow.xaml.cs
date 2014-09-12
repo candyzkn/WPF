@@ -13,6 +13,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using MyWPF.CustomControlLibrary;
 using System.Threading;
+using MyWPF.Utils;
 
 namespace MyWPF
 {
@@ -33,7 +34,6 @@ namespace MyWPF
             {
                 _progressThread.Start();
                 _progressThread.Title = "数据加载中请稍后……";
-
 
                 for (int i = 0; i < 5000; i++)
                 {
